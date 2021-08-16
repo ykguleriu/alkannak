@@ -7,17 +7,17 @@ img[width][height] {height: auto;}
 
 
 
-
+    
     .widget-1f5975 .copyright {
     font-size: 13px;
     display: flex;
     text-align: left;
     justify-content: flex-start;
 }
+    
 
 
-
-
+    
 
 
 
@@ -26,11 +26,6 @@ img[width][height] {height: auto;}
 background-repeat:no-repeat !important;
 background-image:none !important;
 background-size:cover !important}
-*#dm *.dmBody div.u_1018712295{
-background-repeat:no-repeat !important;
-background-image:url(/Resources/images/painting_transparent_bg3-640w.png) !important;
-background-size:cover !important;
-background-color:rgba(213,161,142,1) !important}
 *#dm *.dmBody nav.u_1042692520{
 color:black !important}
 *#dm *.dmBody nav.u_1955741426{
@@ -49,20 +44,9 @@ box-shadow:none !important;
 border-right-style:solid !important;
 border-right-color:rgba(215,121,103,1) !important;
 border-right-width:0 !important}
-*#dm *.dmBody div.u_1165619882 *.svg{
-color:rgba(33,34,197,1) !important;
-fill:rgba(33,34,197,1) !important}
 *#dm *.dmBody div.u_1010768419 *.svg{
 color:rgba(33,34,197,1) !important;
 fill:rgba(33,34,197,1) !important}
-*#dm *.dmBody div.u_1021498070{
-background-color:rgba(0,0,0,0) !important;
-box-shadow:none !important;
--moz-box-shadow:none !important;
--webkit-box-shadow:none !important;
-border-right-style:solid !important;
-border-right-width:2px !important;
-border-right-color:rgba(215,121,103,1) !important}
 *#dm *.dmBody div.u_1263928747 *.svg{
 color:rgba(33,34,197,1) !important;
 fill:rgba(33,34,197,1) !important}
@@ -111,6 +95,22 @@ fill:rgba(33,34,197,1) !important}
 *#dm *.dmBody div.u_1098566684 *.svg{
 color:rgba(33,34,197,1) !important;
 fill:rgba(33,34,197,1) !important}
+*#dm *.dmBody div.u_1018712295{
+background-repeat:no-repeat !important;
+background-image:url(/Resources/images/painting_transparent_bg3-640w.png) !important;
+background-size:cover !important;
+background-color:rgba(228,70,70,1) !important}
+*#dm *.dmBody div.u_1021498070{
+background-color:rgba(0,0,0,0) !important;
+box-shadow:none !important;
+-moz-box-shadow:none !important;
+-webkit-box-shadow:none !important;
+border-right-style:solid !important;
+border-right-width:2px !important;
+border-right-color:rgba(228,70,70,1) !important}
+*#dm *.dmBody div.u_1165619882 *.svg{
+color:rgba(228,70,70,1) !important;
+fill:rgba(228,70,70,1) !important}
 
 
     *#dm *.dmBody div.caption-container *.caption-text *.rteBlock{
@@ -626,7 +626,7 @@ min-width:25px !important;
 text-align:center !important}
 
 
-        .font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-14, .dmMobileBody .m-size-14, .dmMobileBody .m-size-14 > font { font-size: 14px !important; }.dmMobileBody .m-font-size-14, .dmMobileBody .m-size-14, .dmMobileBody .m-size-14 > font { font-size: 14px !important; }
-
+        .font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-30, .size-30, .size-30 > font { font-size: 30px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-30, .size-30, .size-30 > font { font-size: 30px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-13, .size-13, .size-13 > font { font-size: 13px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-13, .size-13, .size-13 > font { font-size: 13px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-13, .size-13, .size-13 > font { font-size: 13px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-13, .size-13, .size-13 > font { font-size: 13px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-13, .size-13, .size-13 > font { font-size: 13px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-13, .size-13, .size-13 > font { font-size: 13px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-13, .size-13, .size-13 > font { font-size: 13px !important; }.dmMobileBody .m-font-size-24, .dmMobileBody .m-size-24, .dmMobileBody .m-size-24 > font { font-size: 24px !important; }.dmMobileBody .m-font-size-24, .dmMobileBody .m-size-24, .dmMobileBody .m-size-24 > font { font-size: 24px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-19, .dmMobileBody .m-size-19, .dmMobileBody .m-size-19 > font { font-size: 19px !important; }.dmMobileBody .m-font-size-14, .dmMobileBody .m-size-14, .dmMobileBody .m-size-14 > font { font-size: 14px !important; }.dmMobileBody .m-font-size-14, .dmMobileBody .m-size-14, .dmMobileBody .m-size-14 > font { font-size: 14px !important; }.dmMobileBody .m-font-size-13, .dmMobileBody .m-size-13, .dmMobileBody .m-size-13 > font { font-size: 13px !important; }.dmMobileBody .m-font-size-13, .dmMobileBody .m-size-13, .dmMobileBody .m-size-13 > font { font-size: 13px !important; }.dmMobileBody .m-font-size-13, .dmMobileBody .m-size-13, .dmMobileBody .m-size-13 > font { font-size: 13px !important; }.dmMobileBody .m-font-size-13, .dmMobileBody .m-size-13, .dmMobileBody .m-size-13 > font { font-size: 13px !important; }.dmMobileBody .m-font-size-13, .dmMobileBody .m-size-13, .dmMobileBody .m-size-13 > font { font-size: 13px !important; }.dmMobileBody .m-font-size-13, .dmMobileBody .m-size-13, .dmMobileBody .m-size-13 > font { font-size: 13px !important; }.dmMobileBody .m-font-size-13, .dmMobileBody .m-size-13, .dmMobileBody .m-size-13 > font { font-size: 13px !important; }
+    
 
     
